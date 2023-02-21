@@ -7,10 +7,16 @@ So just run the main.py and watch the snake play the game by itself (and eventua
 
 
 # How to run
-Download this repository
+- Download this repository
 
-Install python
+- Install python
 
-Use pip install pygame to install Pygame into your python interpreter
+- Use pip install pygame to install Pygame into your python interpreter
 
-Run the main.py file with python main.py
+- Run the main.py file with python main.py
+
+
+# Development
+- Visual Studio Code
+- Python 3.9.5
+- Pygame 2.1.2
