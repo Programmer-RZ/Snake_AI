@@ -7,6 +7,8 @@ So just run the main.py and watch the snake play the game by itself (and eventua
 
 
 # How to run
+Download this repository
+
 Install python
 
 Use pip install pygame to install Pygame into your python interpreter
