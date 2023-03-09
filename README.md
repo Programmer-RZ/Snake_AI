@@ -18,5 +18,5 @@ So just run the main.py and watch the snake play the game by itself (and eventua
 
 # Development
 - Visual Studio Code
-- Python 3.9.5
+- Python 3.9.7
 - Pygame 2.1.2
